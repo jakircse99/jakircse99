@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/49052645_830517140630776_5383936952317771776_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFFxIYE7oeTKEAEMr6fc5Hyd7KbxmnsyZp3spvGaezJmmJU9wjbqB3RGvckfBoHp6_27qTIOpRM45pQW7mVRESB&_nc_ohc=oN5ccpgXiAMAX85OQ7I&tn=FLpYup0B-_NoJIhr&_nc_ht=scontent.fdac24-1.fna&oh=00_AT85Ac_7dIXeJnVuC1s2reYkw9y5t9P7o4nV-tz6X-mnFQ&oe=61EE92C9)
+![Web Developer](https://github.com/jakircse99/jakircse99/blob/ee3d5fbeccbe9a603c15881f26c183a3e0ee761d/Cover.jpg?raw=true)
 ### Hi there 👋, I'm Jakir Hossain
 #### Web Developer
 
