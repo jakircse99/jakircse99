@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/jakircse99/jakircse99/blob/ee3d5fbeccbe9a603c15881f26c183a3e0ee761d/Cover.jpg?raw=true)
+![Web Developer]()
 ### Hi there 👋, I'm Jakir Hossain
 #### Web Developer
 
